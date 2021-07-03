@@ -89,6 +89,7 @@
     margin-right: 20px;
     
   }
+
 @media(max-width: 650px){
     .table thead{
         display: none;
