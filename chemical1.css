@@ -82,6 +82,13 @@
 .table tbody tr:last-of-type {
     border-bottom: 2px solid #e95f20;
   }
+.home-button{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 10px;
+    margin-right: 20px;
+    
+  }
 @media(max-width: 650px){
     .table thead{
         display: none;
