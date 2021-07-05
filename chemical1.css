@@ -94,6 +94,10 @@
   }
 
 @media(max-width: 650px){
+
+    .table-container{
+        margin: 40px auto 0;
+    }
     .table thead{
         display: none;
     }
@@ -123,5 +127,8 @@
           font-weight: 600;
           font-size: 14px;
           text-align: left;
+      }
+      .bg-img{
+          height: 220vh;
       }
 }
