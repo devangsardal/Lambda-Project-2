@@ -19,7 +19,7 @@
   }
   .table-container{
     padding: 0 10%;
-    margin: 40px auto 0;
+    margin: 200px auto 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,7 +44,7 @@
     vertical-align: top;
 }
 .table tbody{
-    opacity: 0.6;
+    opacity: 0.8;
 }
 .table tbody tr td{
     font-size: 14px;
